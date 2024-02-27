@@ -1,404 +1,404 @@
 cell_set_accession	cell_label	cell_fullname	parent_cell_set_accession	parent_cell_set_name	labelset	cell_ontology_term_id	cell_ontology_term	rationale	rationale_dois	marker_gene_evidence	synonyms	Cluster ID
-CS202210140_1	Bcell_0		CS202210140_463	Miscellaneous	Cluster	CL:0000236	B cell	Inferred from expression of:  PAX5 (Schebesta et al., 2007); FCRL1 (Leu et al., 2005; Li et al., 2016). Also express: MS4A1, CD79A CD79B	"[""https://doi.org/10.1016/j.immuni.2007.05.019"", ""https://doi.org/10.1182/blood-2004-06-2344"", ""https://doi.org/10.4049/jimmunol.1501027""]"	"[""DOCK8"", ""PAX5"", ""FCRL1""]"	[]	0
-CS202210140_2	Tcell_1		CS202210140_463	Miscellaneous	Cluster	CL:0000084	T cell	Inferred from expression of: DOCK8 (Randall et al., 2011);  CD8, CD3 (Böttcher et al., 2019). Also express: TRAC, CD3E.	"[""https://doi.org/10.1084%2Fjem.20110345"", ""https://doi.org/10.1038. https://doi.org/10.1038/s41593-018-0290-2""]"	"[""DOCK8"", ""CD8A"", ""CD3G""]"	[]	1
-CS202210140_3	Nkcell_2		CS202210140_463	Miscellaneous	Cluster	CL:0000623	natural killer cell	Inferred from expression of: NCAM1 Böttcher et al., 2019). Adult human data + wikipedia pages for GZMB, natural killer cells. Also express: KLRF1	"[""https://doi.org/10.1038/s41593-018-0290-2""]"	"[""NCAM1"", ""GZMB""]"	[]	2
-CS202210140_4	Mono_3		CS202210140_463	Miscellaneous	Cluster	CL:0000576	monocyte	We then analyzed differentially expressed genes between clusters (Fig. 1c and Supplementary Fig. 1). Cluster 1 displayed high expression of monocyte genes such as CTSS, FCN1, S100A9, LYZ, VCAN. Clusters 2 and 3 shared high expression of macrophage genes such as LGMN, CTSB, CD14, APOE, C1QB, MARCO, CD163, FCGR3A. Cluster 4 expressed high levels of monocyte and macrophage-related genes such as FCN1, S100A9, VCAN, S100A8, MAFB. Clusters 5 and 6 expressed monocyte-related genes such as FCN1, S100A9, VCAN, FCGR1A, FCGR1B, as well as DC genes including CD1C, FCER1A, IFITM2, CLEC10A, FCGR2B. (Tang-Huau et al., 2018).  From  https://singlecell.broadinstitute.org/single_cell/study/SCP424/single-cell-comparison-pbmc-data#study-visualize : VCAN is not expressed much in CD16+ monocytes; TYROBP from the 10X single-cell PBMC data; FCN1 may also mark dendritic cells; CD14 expression seems too low to use as a marker.	"[""https://doi.org/10.1038/s41467-018-04985-0""]"	"[""TYROBP"", ""FCN1"", ""LYZ""]"	[]	3
-CS202210140_84	DLNP_83		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	83
-CS202210140_85	DLCT6b_84		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	84
-CS202210140_86	DLNP_85		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	85
-CS202210140_87	DLNP_86		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	86
-CS202210140_88	DLNP_87		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	87
-CS202210140_89	DLNP_88		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	88
-CS202210140_90	DLNP_89		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	89
-CS202210140_91	DLNP_90		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	90
-CS202210140_92	DLNP_91		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	91
-CS202210140_93	DLNP_92		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	92
-CS202210140_94	DLNP_93		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	93
-CS202210140_95	DLNP_94		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	94
-CS202210140_96	DLNP_95		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	95
-CS202210140_97	DLNP_96		CS202210140_473	Deep-layer near-projecting	Cluster				"[""""]"	"[""""]"	[]	96
-CS202210140_98	DLCT6b_97		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	97
-CS202210140_99	DLCT6b_98		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	98
-CS202210140_100	DLCT6b_99		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	99
-CS202210140_101	DLCT6b_100		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	100
-CS202210140_102	DLCT6b_101		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	101
-CS202210140_103	DLCT6b_102		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	102
-CS202210140_104	DLCT6b_103		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	103
-CS202210140_105	DLCT6b_104		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	104
-CS202210140_106	DLCT6b_105		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	105
-CS202210140_107	DLCT6b_106		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	106
-CS202210140_108	DLCT6b_107		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	107
-CS202210140_109	DLCT6b_108		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	108
-CS202210140_110	DLCT6b_109		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	109
-CS202210140_111	DLCT6b_110		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	110
-CS202210140_112	DLCT6b_111		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	111
-CS202210140_113	DLCT6b_112		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster				"[""""]"	"[""""]"	[]	112
-CS202210140_114	L5ET_113		CS202210140_463	Miscellaneous	Cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron		"[""https://doi.org/10.1038/s41467-020-14952-3""]"	"[""FEZF2"", ""BCL11B"", ""POU3F1"", ""TXK""]"	[]	113
-CS202210140_115	L5ET_114		CS202210140_463	Miscellaneous	Cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron		"[""https://doi.org/10.1038/s41467-020-14952-3""]"	"[""FEZF2"", ""BCL11B"", ""POU3F1"", ""TXK""]"	[]	114
-CS202210140_116	L5ET_115		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	115
-CS202210140_117	Misc_116		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	116
-CS202210140_118	L5ET_117		CS202210140_463	Miscellaneous	Cluster	CL:4030039	von Economo neuron		"[""https://doi.org/10.1038/s41467-020-14952-3""]"	"[""FEZF2"", ""GABRQ"", ""ITGA4"", ""BMP3""]"	[]	117
-CS202210140_119	L5ET_118		CS202210140_463	Miscellaneous	Cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron		"[""https://doi.org/10.1038/s41467-020-14952-3""]"	"[""FEZF2"", ""BCL11B"", ""POU3F1"", ""TXK""]"	[]	118
-CS202210140_120	CA13_119		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	119
-CS202210140_121	ULIT_120		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	120
-CS202210140_122	ULIT_121		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	121
-CS202210140_123	ULIT_122		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	122
-CS202210140_124	ULIT_123		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	123
-CS202210140_125	ULIT_124		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	124
-CS202210140_126	ULIT_125		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	125
-CS202210140_127	ULIT_126		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	126
-CS202210140_128	ULIT_127		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	127
-CS202210140_129	ULIT_128		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	128
-CS202210140_130	ULIT_129		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	129
-CS202210140_131	ULIT_130		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	130
-CS202210140_132	ULIT_131		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	131
-CS202210140_133	Misc_132		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	132
-CS202210140_134	ULIT_133		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	133
-CS202210140_135	ULIT_134		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	134
-CS202210140_136	ULIT_135		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	135
-CS202210140_137	DLIT_136		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	136
-CS202210140_138	DLIT_137		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	137
-CS202210140_139	ULIT_138		CS202210140_476	Upper-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	138
-CS202210140_140	DLIT_139		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	139
-CS202210140_141	DLIT_140		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	140
-CS202210140_142	DLIT_141		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	141
-CS202210140_143	DLIT_142		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	142
-CS202210140_144	DLIT_143		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	143
-CS202210140_145	DLIT_144		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	144
-CS202210140_146	DLIT_145		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	145
-CS202210140_147	DLIT_146		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	146
-CS202210140_148	DLIT_147		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	147
-CS202210140_149	DLIT_148		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	148
-CS202210140_150	DLIT_149		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	149
-CS202210140_151	DLIT_150		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	150
-CS202210140_152	DLIT_151		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	151
-CS202210140_153	DLIT_152		CS202210140_477	Deep-layer intratelencephalic	Cluster				"[""""]"	"[""""]"	[]	152
-CS202210140_154	Amex_153		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	153
-CS202210140_155	Amex_154		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	154
-CS202210140_156	Amex_155		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	155
-CS202210140_157	Amex_156		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	156
-CS202210140_158	Amex_157		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	157
-CS202210140_159	Amex_158		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	158
-CS202210140_160	Amex_159		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	159
-CS202210140_161	Amex_160		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	160
-CS202210140_162	Amex_161		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	161
-CS202210140_163	Amex_162		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	162
-CS202210140_164	CA13_163		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	163
-CS202210140_165	Misc_164		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	164
-CS202210140_166	Misc_165		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	165
-CS202210140_167	Misc_166		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	166
-CS202210140_168	Misc_167		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	167
-CS202210140_169	Misc_168		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	168
-CS202210140_170	CA13_169		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	169
-CS202210140_171	Misc_170		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	170
-CS202210140_172	Amex_171		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	171
-CS202210140_173	Amex_172		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	172
-CS202210140_174	Amex_173		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	173
-CS202210140_175	Amex_174		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	174
-CS202210140_176	Amex_175		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	175
-CS202210140_177	Misc_176		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	176
-CS202210140_178	Misc_177		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	177
-CS202210140_179	Misc_178		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	178
-CS202210140_180	CA13_179		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	179
-CS202210140_181	CA13_180		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	180
-CS202210140_182	CA13_181		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	181
-CS202210140_183	CA13_182		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	182
-CS202210140_184	CA13_183		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	183
-CS202210140_185	CA13_184		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	184
-CS202210140_186	CA13_185		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	185
-CS202210140_187	CA13_186		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	186
-CS202210140_188	CA13_187		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	187
-CS202210140_189	CA13_188		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	188
-CS202210140_190	CA13_189		CS202210140_475	Hippocampal CA1-3	Cluster				"[""""]"	"[""""]"	[]	189
-CS202210140_191	CA4_190		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	190
-CS202210140_192	CA4_191		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	191
-CS202210140_193	CA4_192		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	192
-CS202210140_194	CA4_193		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	193
-CS202210140_195	CA4_194		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	194
-CS202210140_196	CA4_195		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	195
-CS202210140_197	CA4_196		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	196
-CS202210140_198	CA4_197		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	197
-CS202210140_199	CA4_198		CS202210140_479	Hippocampal CA4	Cluster				"[""""]"	"[""""]"	[]	198
-CS202210140_200	DG_199		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data	"[""""]"	"[""SLC17A7"", ""PROX1"", ""NR3C2"", ""TUBGCP2"", ""ZBTB20"", ""DPF3"", ""CEBPD""]"	[]	199
-CS202210140_201	DG_200		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data	"[""""]"	"[""SLC17A7"", ""PROX1"", ""NR3C2"", ""TUBGCP2"", ""ZBTB20"", ""DPF3"", ""CEBPD""]"	[]	200
-CS202210140_202	DG_201		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data	"[""""]"	"[""SLC17A7"", ""PROX1"", ""NR3C2"", ""TUBGCP2"", ""ZBTB20"", ""DPF3"", ""CEBPD""]"	[]	201
-CS202210140_203	DG_202		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data	"[""""]"	"[""SLC17A7"", ""PROX1"", ""NR3C2"", ""TUBGCP2"", ""ZBTB20"", ""DPF3"", ""CEBPD""]"	[]	202
-CS202210140_204	DG_203		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data	"[""""]"	"[""SLC17A7"", ""PROX1"", ""NR3C2"", ""TUBGCP2"", ""ZBTB20"", ""DPF3"", ""CEBPD""]"	[]	203
-CS202210140_205	DG_204		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data	"[""""]"	"[""SLC17A7"", ""PROX1"", ""NR3C2"", ""TUBGCP2"", ""ZBTB20"", ""DPF3"", ""CEBPD""]"	[]	204
-CS202210140_206	DG_205		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data	"[""""]"	"[""SLC17A7"", ""PROX1"", ""NR3C2"", ""TUBGCP2"", ""ZBTB20"", ""DPF3"", ""CEBPD""]"	[]	205
-CS202210140_207	MSN_206		CS202210140_481	Medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	206
-CS202210140_208	MSN_207		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""OTOF"", ""DRD2"", ""RGS9"", ""GPR88""]"	[]	207
-CS202210140_209	MSN_208		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""OTOF"", ""DRD2"", ""RGS9"", ""GPR88""]"	[]	208
-CS202210140_210	MSN_209		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	209
-CS202210140_211	MSN_210		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	210
-CS202210140_212	MSN_211		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	211
-CS202210140_213	MSN_212		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""OTOF"", ""DRD2"", ""RGS9"", ""GPR88""]"	[]	212
-CS202210140_214	MSN_213		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""OTOF"", ""DRD2"", ""RGS9"", ""GPR88""]"	[]	213
-CS202210140_215	MSN_214		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	214
-CS202210140_216	MSN_215		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	215
-CS202210140_217	MSN_216		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""OTOF"", ""DRD2"", ""RGS9"", ""GPR88""]"	[]	216
-CS202210140_218	MSN_217		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""OTOF"", ""DRD2"", ""RGS9"", ""GPR88""]"	[]	217
-CS202210140_219	MSN_218		CS202210140_481	Medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	218
-CS202210140_220	MSN_219		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	219
-CS202210140_221	MSN_220		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	220
-CS202210140_222	MSN_221		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""OTOF"", ""DRD2"", ""RGS9"", ""GPR88""]"	[]	221
-CS202210140_223	EMSN_222		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	222
-CS202210140_224	EMSN_223		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	223
-CS202210140_225	EMSN_224		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	224
-CS202210140_226	EMSN_225		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	225
-CS202210140_227	EMSN_226		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	226
-CS202210140_228	EMSN_227		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	227
-CS202210140_229	EMSN_228		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	228
-CS202210140_230	EMSN_229		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	229
-CS202210140_231	EMSN_230		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	230
-CS202210140_232	EMSN_231		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	231
-CS202210140_233	EMSN_232		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	232
-CS202210140_234	EMSN_233		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	233
-CS202210140_235	EMSN_234		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	234
-CS202210140_236	Splat_235		CS202210140_483	Splatter	Cluster	CL:4023025	long-range projecting sst GABAergic cortical interneuron (Mmus)	CORT is more specifically enriched in the neuronal cluster with the high NOS1 and NPY expression. Without CORT, also labels some AVP+ neurons with low NOS1 and NPY expression.	"[""""]"	"[""DLX1"", ""SST"", ""CHODL"", ""TACR1"", ""NPY"", ""NOS1"", ""CORT""]"	[]	235
-CS202210140_237	MGE_236		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	236
-CS202210140_238	Splat_237		CS202210140_483	Splatter	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	237
-CS202210140_239	Splat_238		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	238
-CS202210140_240	MGE_239		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	239
-CS202210140_241	MGE_240		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	240
-CS202210140_242	MGE_241		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	241
-CS202210140_243	MGE_242		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	242
-CS202210140_244	MGE_243		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	243
-CS202210140_245	MGE_244		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	244
-CS202210140_246	MGE_245		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	245
-CS202210140_247	MGE_246		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	246
-CS202210140_248	MGE_247		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	247
-CS202210140_249	MGE_248		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	248
-CS202210140_250	MGE_249		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	249
-CS202210140_251	MGE_250		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	250
-CS202210140_252	MGE_251		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	251
-CS202210140_253	MGE_252		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	252
-CS202210140_254	MGE_253		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	253
-CS202210140_255	MGE_254		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	254
-CS202210140_256	MGE_255		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	255
-CS202210140_257	MGE_256		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""PVALB""]"	[]	256
-CS202210140_258	MGE_257		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""PVALB""]"	[]	257
-CS202210140_259	MGE_258		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""SST""]"	[]	258
-CS202210140_260	MGE_259		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""PVALB""]"	[]	259
-CS202210140_261	MGE_260		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""PVALB""]"	[]	260
-CS202210140_262	MGE_261		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""PVALB""]"	[]	261
-CS202210140_263	MGE_262		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LHX6"", ""GAD2"", ""PVALB""]"	[]	262
-CS202210140_264	MGE_263		CS202210140_484	MGE interneuron	Cluster				"[""""]"	"[""""]"	[]	263
-CS202210140_265	LLC_264		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster	CL:4023083	chandelier cell	Based on Annotaton transfer from MTG + markers: UNC5B, RORA, TRPS1, and NFIB from Bakken et. al 2021 motor cortex paper Note that these genes are also expressed in LAMP5-LHX6 cells. Added FOXG1 to limit this annotation to the telencephalon, and GAD1 to limit to GABAergic cells. ChC cells in our data did not express GAD2. Add CA8 based on the human data. Removed PVALB, some chandelier cells in our human data are PVALB negative	"[""""]"	"[""FOXG1"", ""GAD1"", ""UNC5B"", ""RORA"", ""TRPS1"", ""NFIB"", ""CA8"", ""PLEKHH2""]"	[]	264
-CS202210140_266	LLC_265		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster	CL:4023083	chandelier cell	Based on Annotaton transfer from MTG + markers: UNC5B, RORA, TRPS1, and NFIB from Bakken et. al 2021 motor cortex paper Note that these genes are also expressed in LAMP5-LHX6 cells. Added FOXG1 to limit this annotation to the telencephalon, and GAD1 to limit to GABAergic cells. ChC cells in our data did not express GAD2. Add CA8 based on the human data. Removed PVALB, some chandelier cells in our human data are PVALB negative	"[""""]"	"[""FOXG1"", ""GAD1"", ""UNC5B"", ""RORA"", ""TRPS1"", ""NFIB"", ""CA8"", ""PLEKHH2""]"	[]	265
-CS202210140_267	LLC_266		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster	CL:4023083	chandelier cell	UNC5B, RORA, TRPS1, and NFIB from Bakken et. al 2021 motor cortex paper Note that these genes are also expressed in LAMP5-LHX6 cells. Added FOXG1 to limit this annotation to the telencephalon, and GAD1 to limit to GABAergic cells. ChC cells in our data did not express GAD2. Add CA8 based on the human data. Removed PVALB, some chandelier cells in our human data are PVALB negative	"[""""]"	"[""FOXG1"", ""GAD1"", ""UNC5B"", ""RORA"", ""TRPS1"", ""NFIB"", ""CA8"", ""PLEKHH2""]"	[]	266
-CS202210140_268	LLC_267		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	267
-CS202210140_269	LLC_268		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	268
-CS202210140_270	LLC_269		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	269
-CS202210140_271	LLC_270		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	270
-CS202210140_272	LLC_271		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	271
-CS202210140_273	LLC_272		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	272
-CS202210140_274	LLC_273		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	273
-CS202210140_275	LLC_274		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	274
-CS202210140_276	LLC_275		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster				"[""""]"	"[""""]"	[]	275
-CS202210140_277	CGE_276		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	276
-CS202210140_278	CGE_277		CS202210140_486	CGE interneuron	Cluster				"[""""]"	"[""""]"	[]	277
-CS202210140_279	CGE_278		CS202210140_486	CGE interneuron	Cluster				"[""""]"	"[""""]"	[]	278
-CS202210140_280	CGE_279		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	279
-CS202210140_281	CGE_280		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	280
-CS202210140_282	CGE_281		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	281
-CS202210140_283	CGE_282		CS202210140_486	CGE interneuron	Cluster				"[""""]"	"[""""]"	[]	282
-CS202210140_284	CGE_283		CS202210140_486	CGE interneuron	Cluster				"[""""]"	"[""""]"	[]	283
-CS202210140_285	CGE_284		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	284
-CS202210140_286	CGE_285		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	285
-CS202210140_287	CGE_286		CS202210140_486	CGE interneuron	Cluster	CL:4023011	lamp5 GABAergic cortical interneuron	Supported by marker expression and annotation transfer from MTG. More numerous in primates and molecularly similar to hippocampal interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LAMP5"", ""LHX6"", ""GAD2""]"	[]	286
-CS202210140_288	CGE_287		CS202210140_486	CGE interneuron	Cluster	CL:4023011	lamp5 GABAergic cortical interneuron	Supported by marker expression and annotation transfer from MTG. More numerous in primates and molecularly similar to hippocampal interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LAMP5"", ""LHX6"", ""GAD2""]"	[]	287
-CS202210140_289	CGE_288		CS202210140_486	CGE interneuron	Cluster	CL:4023011	lamp5 GABAergic cortical interneuron	Supported by marker expression and annotation transfer from MTG. More numerous in primates and molecularly similar to hippocampal interneurons	"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""LAMP5"", ""LHX6"", ""GAD2""]"	[]	288
-CS202210140_290	CGE_289		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	289
-CS202210140_291	CGE_290		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	290
-CS202210140_292	CGE_291		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	291
-CS202210140_293	CGE_292		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	292
-CS202210140_294	CGE_293		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	293
-CS202210140_295	CGE_294		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	294
-CS202210140_296	CGE_295		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	295
-CS202210140_297	CGE_296		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		"[""https://doi.org/10.1038/s41586-020-2781-z""]"	"[""FOXG1"", ""NR2F1"", ""DLX1"", ""ADARB2"", ""CXCL14"", ""GAD2"", ""VIP""]"	[]	296
-CS202210140_298	URL_297		CS202210140_487	Upper rhombic lip	Cluster				"[""""]"	"[""""]"	[]	297
-CS202210140_299	CBI_298		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	298
-CS202210140_300	CBI_299		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	299
-CS202210140_301	CBI_300		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	300
-CS202210140_302	CBI_301		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	301
-CS202210140_303	CBI_302		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	302
-CS202210140_304	CBI_303		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	303
-CS202210140_305	CBI_304		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	304
-CS202210140_306	CBI_305		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	305
-CS202210140_307	CBI_306		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	306
-CS202210140_308	CBI_307		CS202210140_488	Cerebellar inhibitory	Cluster				"[""""]"	"[""""]"	[]	307
-CS202210140_309	URL_308		CS202210140_487	Upper rhombic lip	Cluster	CL:4023161	unipolar brush cell		"[""""]"	"[""LMX1A"", ""EOMES""]"	[]	308
-CS202210140_310	URL_309		CS202210140_487	Upper rhombic lip	Cluster				"[""""]"	"[""""]"	[]	309
-CS202210140_311	URL_310		CS202210140_487	Upper rhombic lip	Cluster	CL:0001031	cerebellar granule cell		"[""mousebrain.org""]"	"[""CBLN1"", ""CBLN3"", ""GABRA6""]"	[]	310
-CS202210140_312	URL_311		CS202210140_487	Upper rhombic lip	Cluster	CL:0001031	cerebellar granule cell		"[""mousebrain.org""]"	"[""CBLN1"", ""CBLN3"", ""GABRA6""]"	[]	311
-CS202210140_313	URL_312		CS202210140_487	Upper rhombic lip	Cluster	CL:0001031	cerebellar granule cell		"[""mousebrain.org""]"	"[""CBLN1"", ""CBLN3"", ""GABRA6""]"	[]	312
-CS202210140_314	Splat_313		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	313
-CS202210140_315	Misc_314		CS202210140_463	Miscellaneous	Cluster	CL:0000121	Purkinje cell	Kozareva, V., Martin, C., Osorno, T. et al. A transcriptomic atlas of mouse cerebellar cortex comprehensively defines cell types. Nature 598, 214–219 (2021). 	"[""https://doi.org/10.1038/s41586-021-03220-z""]"	"[""PCP2"", ""SKOR2"", ""PVALB"", ""GAD2""]"	[]	314
-CS202210140_316	LRL_315		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	315
-CS202210140_317	LRL_316		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	316
-CS202210140_318	LRL_317		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	317
-CS202210140_319	LRL_318		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	318
-CS202210140_320	LRL_319		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	319
-CS202210140_321	LRL_320		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	320
-CS202210140_322	LRL_321		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	321
-CS202210140_323	LRL_322		CS202210140_489	Lower rhombic lip	Cluster				"[""""]"	"[""""]"	[]	322
-CS202210140_324	Mmb_323		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	323
-CS202210140_325	Mmb_324		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	324
-CS202210140_326	Mmb_325		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	325
-CS202210140_327	Mmb_326		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	326
-CS202210140_328	Mmb_327		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	327
-CS202210140_329	Mmb_328		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	328
-CS202210140_330	Mmb_329		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	329
-CS202210140_331	Mmb_330		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	330
-CS202210140_332	Mmb_331		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	331
-CS202210140_333	Mmb_332		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	332
-CS202210140_334	Mmb_333		CS202210140_490	Mammillary body	Cluster				"[""""]"	"[""""]"	[]	333
-CS202210140_335	Splat_334		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	334
-CS202210140_336	Splat_335		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	335
-CS202210140_337	Splat_336		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	336
-CS202210140_338	Splat_337		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	337
-CS202210140_339	Splat_338		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	338
-CS202210140_340	Splat_339		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	339
-CS202210140_341	Splat_340		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	340
-CS202210140_342	Splat_341		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	341
-CS202210140_343	Splat_342		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	342
-CS202210140_344	Splat_343		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	343
-CS202210140_345	Splat_344		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	344
-CS202210140_346	Splat_345		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	345
-CS202210140_347	Splat_346		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	346
-CS202210140_348	Splat_347		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	347
-CS202210140_349	Splat_348		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	348
-CS202210140_350	Splat_349		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	349
-CS202210140_351	Splat_350		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	350
-CS202210140_352	Splat_351		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	351
-CS202210140_353	Splat_352		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	352
-CS202210140_354	Splat_353		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	353
-CS202210140_355	Splat_354		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	354
-CS202210140_356	Splat_355		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	355
-CS202210140_357	Splat_356		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	356
-CS202210140_358	Splat_357		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	357
-CS202210140_359	Splat_358		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	358
-CS202210140_360	Splat_359		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	359
-CS202210140_361	Splat_360		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	360
-CS202210140_362	Splat_361		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	361
-CS202210140_363	Splat_362		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	362
-CS202210140_364	Splat_363		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	363
-CS202210140_365	Splat_364		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	364
-CS202210140_366	Splat_365		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	365
-CS202210140_367	Splat_366		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	366
-CS202210140_368	Splat_367		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	367
-CS202210140_369	Splat_368		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	368
-CS202210140_370	Splat_369		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	369
-CS202210140_371	Splat_370		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	370
-CS202210140_372	Splat_371		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	371
-CS202210140_373	Thex_372		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	372
-CS202210140_374	Splat_373		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	373
-CS202210140_375	Splat_374		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	374
-CS202210140_376	Splat_375		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	375
-CS202210140_377	Splat_376		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	376
-CS202210140_378	Splat_377		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	377
-CS202210140_379	Splat_378		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	378
-CS202210140_380	Splat_379		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	379
-CS202210140_381	Splat_380		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	380
-CS202210140_382	Splat_381		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	381
-CS202210140_383	Splat_382		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	382
-CS202210140_384	Splat_383		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	383
-CS202210140_385	Splat_384		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	384
-CS202210140_386	Splat_385		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	385
-CS202210140_387	Splat_386		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	386
-CS202210140_388	Splat_387		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	387
-CS202210140_389	Splat_388		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	388
-CS202210140_390	Splat_389		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	389
-CS202210140_391	Splat_390		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	390
-CS202210140_392	Splat_391		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	391
-CS202210140_393	Splat_392		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	392
-CS202210140_394	Splat_393		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	393
-CS202210140_395	Splat_394		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	394
-CS202210140_396	Splat_395		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	395
-CS202210140_397	Splat_396		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	396
-CS202210140_398	Splat_397		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	397
-CS202210140_399	Splat_398		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	398
-CS202210140_400	Splat_399		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	399
-CS202210140_401	Splat_400		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	400
-CS202210140_402	Misc_401		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	401
-CS202210140_403	Splat_402		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	402
-CS202210140_404	Splat_403		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	403
-CS202210140_405	Misc_404		CS202210140_463	Miscellaneous	Cluster				"[""""]"	"[""""]"	[]	404
-CS202210140_406	Amex_405		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	405
-CS202210140_407	Amex_406		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	406
-CS202210140_408	Amex_407		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	407
-CS202210140_409	Amex_408		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	408
-CS202210140_410	Splat_409		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	409
-CS202210140_411	Splat_410		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	410
-CS202210140_412	Splat_411		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	411
-CS202210140_413	Splat_412		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	412
-CS202210140_414	Splat_413		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	413
-CS202210140_415	Splat_414		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	414
-CS202210140_416	Splat_415		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	415
-CS202210140_417	Splat_416		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	416
-CS202210140_418	Splat_417		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	417
-CS202210140_419	Splat_418		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	418
-CS202210140_420	Amex_419		CS202210140_478	Amygdala excitatory	Cluster				"[""""]"	"[""""]"	[]	419
-CS202210140_421	Splat_420		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	420
-CS202210140_422	Splat_421		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	421
-CS202210140_423	Splat_422		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	422
-CS202210140_424	Splat_423		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	423
-CS202210140_425	Splat_424		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	424
-CS202210140_426	Splat_425		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	425
-CS202210140_427	EMSN_426		CS202210140_482	Eccentric medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	426
-CS202210140_428	MSN_427		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons FOXP1, DRD1 are known markers OTOF is a good marker in the human data, previously described as an eccentric MSN marker RGS9 and GPR88 from mouse auto-annotation	"[""""]"	"[""FOXG1"", ""SLC32A1"", ""FOXP1"", ""FOXP2"", ""OTOF"", ""DRD1"", ""RGS9"", ""GPR88""]"	[]	427
-CS202210140_429	Splat_428		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	428
-CS202210140_430	Splat_429		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	429
-CS202210140_431	MSN_430		CS202210140_481	Medium spiny neuron	Cluster				"[""""]"	"[""""]"	[]	430
-CS202210140_432	Splat_431		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	431
-CS202210140_433	Splat_432		CS202210140_483	Splatter	Cluster				"[""""]"	"[""""]"	[]	432
-CS202210140_434	Midi_433		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	433
-CS202210140_435	Midi_434		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	434
-CS202210140_436	Midi_435		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	435
-CS202210140_437	Midi_436		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	436
-CS202210140_438	Midi_437		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	437
-CS202210140_439	Midi_438		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	438
-CS202210140_440	Midi_439		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	439
-CS202210140_441	Midi_440		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	440
-CS202210140_442	Midi_441		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	441
-CS202210140_443	Midi_442		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	442
-CS202210140_444	Midi_443		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	443
-CS202210140_445	Midi_444		CS202210140_492	Midbrain-derived inhibitory	Cluster				"[""""]"	"[""""]"	[]	444
-CS202210140_446	Thex_445		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	445
-CS202210140_447	Thex_446		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	446
-CS202210140_448	Thex_447		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	447
-CS202210140_449	Thex_448		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	448
-CS202210140_450	Thex_449		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	449
-CS202210140_451	Thex_450		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	450
-CS202210140_452	Thex_451		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	451
-CS202210140_453	Thex_452		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	452
-CS202210140_454	Thex_453		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	453
-CS202210140_455	Thex_454		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	454
-CS202210140_456	Thex_455		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	455
-CS202210140_457	Thex_456		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	456
-CS202210140_458	Thex_457		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	457
-CS202210140_459	Thex_458		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	458
-CS202210140_460	Thex_459		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	459
-CS202210140_461	Thex_460		CS202210140_491	Thalamic excitatory	Cluster				"[""""]"	"[""""]"	[]	460
-CS202210140_463	Miscellaneous				supercluster_term	CL:0000000	cell		"[""""]"	"[""""]"	[]	
-CS202210140_473	Deep-layer near-projecting				supercluster_term	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_474	Deep-layer corticothalamic and 6b				supercluster_term	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_475	Hippocampal CA1-3				supercluster_term	CL:4023060	hippocampal CA1-3 neuron	Based on dissection region 	"[""""]"	"[""""]"	[]	
-CS202210140_476	Upper-layer intratelencephalic				supercluster_term	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_477	Deep-layer intratelencephalic				supercluster_term	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_478	Amygdala excitatory				supercluster_term	CL:4023039	amygdala excitatory neuron	Based on dissection region 	"[""""]"	"[""""]"	[]	
-CS202210140_479	Hippocampal CA4				supercluster_term	CL:4023061	hippocampal CA4 neuron	Based on dissection region 	"[""""]"	"[""""]"	[]	
-CS202210140_480	Hippocampal dentate gyrus				supercluster_term	CL:4023062	dentate gyrus neuron	Based on dissection region 	"[""""]"	"[""""]"	[]	
-CS202210140_481	Medium spiny neuron				supercluster_term	CL:1001474	medium spiny neuron	Based on dissection region and marker expression.	"[""""]"	"[""""]"	[]	
-CS202210140_482	Eccentric medium spiny neuron				supercluster_term	CL:4030057	eccentric medium spiny neuron	Based on integration and co-analysis with dataset from Saunders et al., 2018. Markers pulled by comparing our data to Saunders et. al 1018.  Data on http://dropviz.org/?_state_id_=8d0e82549d6039d9	"[""https://doi.org/10.1016/j.cell.2018.07.028""]"	"[""""]"	[]	
-CS202210140_483	Splatter				supercluster_term	CL:0000540	neuron	Label based on embedding	"[""""]"	"[""""]"	[]	
-CS202210140_484	MGE interneuron				supercluster_term	CL:4023069	medial ganglionic eminence derived GABAergic coritcal interneuron'	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_485	LAMP5-LHX6 and Chandelier				supercluster_term	CL:0010011	cerebral cortex GABAergic interneuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_486	CGE interneuron				supercluster_term	CL:4023070	caudal ganglionic eminence derived GABAergic cortical interneuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_487	Upper rhombic lip				supercluster_term	CL:0000540	neuron	Based in part on dissection region and knowledge of development.	"[""""]"	"[""""]"	[]	
-CS202210140_488	Cerebellar inhibitory				supercluster_term	CL:4023057	cerebellar inhibitory GABAergic interneuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	"[""DOI:10.1126/science.adf6812""]"	"[""""]"	[]	
-CS202210140_489	Lower rhombic lip				supercluster_term	CL:0000540	neuron	Based in part on dissection region and knowledge of development.	"[""""]"	"[""""]"	[]	
-CS202210140_490	Mammillary body				supercluster_term	CL:4023074	mammillary body neuron	Based on dissection region 	"[""""]"	"[""""]"	[]	
-CS202210140_491	Thalamic excitatory				supercluster_term	CL:4023068	thalamic excitatory neuron	Based on dissection region 	"[""""]"	"[""""]"	[]	
-CS202210140_492	Midbrain-derived inhibitory				supercluster_term	CL:4023079	midbrain-derived inhibitory neuron	Based in part on dissection region and knowledge of development.	"[""""]"	"[""""]"	[]	
+CS202210140_1	Bcell_0		CS202210140_463	Miscellaneous	Cluster	CL:0000236	B cell	Inferred from expression of:  PAX5 (Schebesta et al., 2007); FCRL1 (Leu et al., 2005; Li et al., 2016). Also express: MS4A1, CD79A CD79B	https://doi.org/10.1016/j.immuni.2007.05.019|https://doi.org/10.1182/blood-2004-06-2344|https://doi.org/10.4049/jimmunol.1501027	DOCK8|PAX5|FCRL1		0
+CS202210140_2	Tcell_1		CS202210140_463	Miscellaneous	Cluster	CL:0000084	T cell	Inferred from expression of: DOCK8 (Randall et al., 2011);  CD8, CD3 (Böttcher et al., 2019). Also express: TRAC, CD3E.	https://doi.org/10.1084%2Fjem.20110345|https://doi.org/10.1038. https://doi.org/10.1038/s41593-018-0290-2	DOCK8|CD8A|CD3G		1
+CS202210140_3	Nkcell_2		CS202210140_463	Miscellaneous	Cluster	CL:0000623	natural killer cell	Inferred from expression of: NCAM1 Böttcher et al., 2019). Adult human data + wikipedia pages for GZMB, natural killer cells. Also express: KLRF1	https://doi.org/10.1038/s41593-018-0290-2	NCAM1|GZMB		2
+CS202210140_4	Mono_3		CS202210140_463	Miscellaneous	Cluster	CL:0000576	monocyte	We then analyzed differentially expressed genes between clusters (Fig. 1c and Supplementary Fig. 1). Cluster 1 displayed high expression of monocyte genes such as CTSS, FCN1, S100A9, LYZ, VCAN. Clusters 2 and 3 shared high expression of macrophage genes such as LGMN, CTSB, CD14, APOE, C1QB, MARCO, CD163, FCGR3A. Cluster 4 expressed high levels of monocyte and macrophage-related genes such as FCN1, S100A9, VCAN, S100A8, MAFB. Clusters 5 and 6 expressed monocyte-related genes such as FCN1, S100A9, VCAN, FCGR1A, FCGR1B, as well as DC genes including CD1C, FCER1A, IFITM2, CLEC10A, FCGR2B. (Tang-Huau et al., 2018).  From  https://singlecell.broadinstitute.org/single_cell/study/SCP424/single-cell-comparison-pbmc-data#study-visualize : VCAN is not expressed much in CD16+ monocytes; TYROBP from the 10X single-cell PBMC data; FCN1 may also mark dendritic cells; CD14 expression seems too low to use as a marker.	https://doi.org/10.1038/s41467-018-04985-0	TYROBP|FCN1|LYZ		3
+CS202210140_84	DLNP_83		CS202210140_473	Deep-layer near-projecting	Cluster							83
+CS202210140_85	DLCT6b_84		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							84
+CS202210140_86	DLNP_85		CS202210140_473	Deep-layer near-projecting	Cluster							85
+CS202210140_87	DLNP_86		CS202210140_473	Deep-layer near-projecting	Cluster							86
+CS202210140_88	DLNP_87		CS202210140_473	Deep-layer near-projecting	Cluster							87
+CS202210140_89	DLNP_88		CS202210140_473	Deep-layer near-projecting	Cluster							88
+CS202210140_90	DLNP_89		CS202210140_473	Deep-layer near-projecting	Cluster							89
+CS202210140_91	DLNP_90		CS202210140_473	Deep-layer near-projecting	Cluster							90
+CS202210140_92	DLNP_91		CS202210140_473	Deep-layer near-projecting	Cluster							91
+CS202210140_93	DLNP_92		CS202210140_473	Deep-layer near-projecting	Cluster							92
+CS202210140_94	DLNP_93		CS202210140_473	Deep-layer near-projecting	Cluster							93
+CS202210140_95	DLNP_94		CS202210140_473	Deep-layer near-projecting	Cluster							94
+CS202210140_96	DLNP_95		CS202210140_473	Deep-layer near-projecting	Cluster							95
+CS202210140_97	DLNP_96		CS202210140_473	Deep-layer near-projecting	Cluster							96
+CS202210140_98	DLCT6b_97		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							97
+CS202210140_99	DLCT6b_98		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							98
+CS202210140_100	DLCT6b_99		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							99
+CS202210140_101	DLCT6b_100		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							100
+CS202210140_102	DLCT6b_101		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							101
+CS202210140_103	DLCT6b_102		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							102
+CS202210140_104	DLCT6b_103		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							103
+CS202210140_105	DLCT6b_104		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							104
+CS202210140_106	DLCT6b_105		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							105
+CS202210140_107	DLCT6b_106		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							106
+CS202210140_108	DLCT6b_107		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							107
+CS202210140_109	DLCT6b_108		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							108
+CS202210140_110	DLCT6b_109		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							109
+CS202210140_111	DLCT6b_110		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							110
+CS202210140_112	DLCT6b_111		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							111
+CS202210140_113	DLCT6b_112		CS202210140_474	Deep-layer corticothalamic and 6b	Cluster							112
+CS202210140_114	L5ET_113		CS202210140_463	Miscellaneous	Cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron		https://doi.org/10.1038/s41467-020-14952-3	FEZF2|BCL11B|POU3F1|TXK		113
+CS202210140_115	L5ET_114		CS202210140_463	Miscellaneous	Cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron		https://doi.org/10.1038/s41467-020-14952-3	FEZF2|BCL11B|POU3F1|TXK		114
+CS202210140_116	L5ET_115		CS202210140_475	Hippocampal CA1-3	Cluster							115
+CS202210140_117	Misc_116		CS202210140_463	Miscellaneous	Cluster							116
+CS202210140_118	L5ET_117		CS202210140_463	Miscellaneous	Cluster	CL:4030039	von Economo neuron		https://doi.org/10.1038/s41467-020-14952-3	FEZF2|GABRQ|ITGA4|BMP3		117
+CS202210140_119	L5ET_118		CS202210140_463	Miscellaneous	Cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron		https://doi.org/10.1038/s41467-020-14952-3	FEZF2|BCL11B|POU3F1|TXK		118
+CS202210140_120	CA13_119		CS202210140_475	Hippocampal CA1-3	Cluster							119
+CS202210140_121	ULIT_120		CS202210140_476	Upper-layer intratelencephalic	Cluster							120
+CS202210140_122	ULIT_121		CS202210140_476	Upper-layer intratelencephalic	Cluster							121
+CS202210140_123	ULIT_122		CS202210140_476	Upper-layer intratelencephalic	Cluster							122
+CS202210140_124	ULIT_123		CS202210140_476	Upper-layer intratelencephalic	Cluster							123
+CS202210140_125	ULIT_124		CS202210140_476	Upper-layer intratelencephalic	Cluster							124
+CS202210140_126	ULIT_125		CS202210140_476	Upper-layer intratelencephalic	Cluster							125
+CS202210140_127	ULIT_126		CS202210140_476	Upper-layer intratelencephalic	Cluster							126
+CS202210140_128	ULIT_127		CS202210140_476	Upper-layer intratelencephalic	Cluster							127
+CS202210140_129	ULIT_128		CS202210140_476	Upper-layer intratelencephalic	Cluster							128
+CS202210140_130	ULIT_129		CS202210140_476	Upper-layer intratelencephalic	Cluster							129
+CS202210140_131	ULIT_130		CS202210140_476	Upper-layer intratelencephalic	Cluster							130
+CS202210140_132	ULIT_131		CS202210140_476	Upper-layer intratelencephalic	Cluster							131
+CS202210140_133	Misc_132		CS202210140_463	Miscellaneous	Cluster							132
+CS202210140_134	ULIT_133		CS202210140_476	Upper-layer intratelencephalic	Cluster							133
+CS202210140_135	ULIT_134		CS202210140_476	Upper-layer intratelencephalic	Cluster							134
+CS202210140_136	ULIT_135		CS202210140_476	Upper-layer intratelencephalic	Cluster							135
+CS202210140_137	DLIT_136		CS202210140_477	Deep-layer intratelencephalic	Cluster							136
+CS202210140_138	DLIT_137		CS202210140_477	Deep-layer intratelencephalic	Cluster							137
+CS202210140_139	ULIT_138		CS202210140_476	Upper-layer intratelencephalic	Cluster							138
+CS202210140_140	DLIT_139		CS202210140_477	Deep-layer intratelencephalic	Cluster							139
+CS202210140_141	DLIT_140		CS202210140_477	Deep-layer intratelencephalic	Cluster							140
+CS202210140_142	DLIT_141		CS202210140_477	Deep-layer intratelencephalic	Cluster							141
+CS202210140_143	DLIT_142		CS202210140_477	Deep-layer intratelencephalic	Cluster							142
+CS202210140_144	DLIT_143		CS202210140_477	Deep-layer intratelencephalic	Cluster							143
+CS202210140_145	DLIT_144		CS202210140_477	Deep-layer intratelencephalic	Cluster							144
+CS202210140_146	DLIT_145		CS202210140_477	Deep-layer intratelencephalic	Cluster							145
+CS202210140_147	DLIT_146		CS202210140_477	Deep-layer intratelencephalic	Cluster							146
+CS202210140_148	DLIT_147		CS202210140_477	Deep-layer intratelencephalic	Cluster							147
+CS202210140_149	DLIT_148		CS202210140_477	Deep-layer intratelencephalic	Cluster							148
+CS202210140_150	DLIT_149		CS202210140_477	Deep-layer intratelencephalic	Cluster							149
+CS202210140_151	DLIT_150		CS202210140_477	Deep-layer intratelencephalic	Cluster							150
+CS202210140_152	DLIT_151		CS202210140_477	Deep-layer intratelencephalic	Cluster							151
+CS202210140_153	DLIT_152		CS202210140_477	Deep-layer intratelencephalic	Cluster							152
+CS202210140_154	Amex_153		CS202210140_478	Amygdala excitatory	Cluster							153
+CS202210140_155	Amex_154		CS202210140_478	Amygdala excitatory	Cluster							154
+CS202210140_156	Amex_155		CS202210140_478	Amygdala excitatory	Cluster							155
+CS202210140_157	Amex_156		CS202210140_478	Amygdala excitatory	Cluster							156
+CS202210140_158	Amex_157		CS202210140_478	Amygdala excitatory	Cluster							157
+CS202210140_159	Amex_158		CS202210140_478	Amygdala excitatory	Cluster							158
+CS202210140_160	Amex_159		CS202210140_478	Amygdala excitatory	Cluster							159
+CS202210140_161	Amex_160		CS202210140_478	Amygdala excitatory	Cluster							160
+CS202210140_162	Amex_161		CS202210140_478	Amygdala excitatory	Cluster							161
+CS202210140_163	Amex_162		CS202210140_478	Amygdala excitatory	Cluster							162
+CS202210140_164	CA13_163		CS202210140_475	Hippocampal CA1-3	Cluster							163
+CS202210140_165	Misc_164		CS202210140_463	Miscellaneous	Cluster							164
+CS202210140_166	Misc_165		CS202210140_463	Miscellaneous	Cluster							165
+CS202210140_167	Misc_166		CS202210140_463	Miscellaneous	Cluster							166
+CS202210140_168	Misc_167		CS202210140_463	Miscellaneous	Cluster							167
+CS202210140_169	Misc_168		CS202210140_463	Miscellaneous	Cluster							168
+CS202210140_170	CA13_169		CS202210140_475	Hippocampal CA1-3	Cluster							169
+CS202210140_171	Misc_170		CS202210140_463	Miscellaneous	Cluster							170
+CS202210140_172	Amex_171		CS202210140_478	Amygdala excitatory	Cluster							171
+CS202210140_173	Amex_172		CS202210140_478	Amygdala excitatory	Cluster							172
+CS202210140_174	Amex_173		CS202210140_478	Amygdala excitatory	Cluster							173
+CS202210140_175	Amex_174		CS202210140_478	Amygdala excitatory	Cluster							174
+CS202210140_176	Amex_175		CS202210140_478	Amygdala excitatory	Cluster							175
+CS202210140_177	Misc_176		CS202210140_463	Miscellaneous	Cluster							176
+CS202210140_178	Misc_177		CS202210140_463	Miscellaneous	Cluster							177
+CS202210140_179	Misc_178		CS202210140_463	Miscellaneous	Cluster							178
+CS202210140_180	CA13_179		CS202210140_475	Hippocampal CA1-3	Cluster							179
+CS202210140_181	CA13_180		CS202210140_475	Hippocampal CA1-3	Cluster							180
+CS202210140_182	CA13_181		CS202210140_475	Hippocampal CA1-3	Cluster							181
+CS202210140_183	CA13_182		CS202210140_475	Hippocampal CA1-3	Cluster							182
+CS202210140_184	CA13_183		CS202210140_475	Hippocampal CA1-3	Cluster							183
+CS202210140_185	CA13_184		CS202210140_475	Hippocampal CA1-3	Cluster							184
+CS202210140_186	CA13_185		CS202210140_475	Hippocampal CA1-3	Cluster							185
+CS202210140_187	CA13_186		CS202210140_475	Hippocampal CA1-3	Cluster							186
+CS202210140_188	CA13_187		CS202210140_475	Hippocampal CA1-3	Cluster							187
+CS202210140_189	CA13_188		CS202210140_475	Hippocampal CA1-3	Cluster							188
+CS202210140_190	CA13_189		CS202210140_475	Hippocampal CA1-3	Cluster							189
+CS202210140_191	CA4_190		CS202210140_479	Hippocampal CA4	Cluster							190
+CS202210140_192	CA4_191		CS202210140_479	Hippocampal CA4	Cluster							191
+CS202210140_193	CA4_192		CS202210140_479	Hippocampal CA4	Cluster							192
+CS202210140_194	CA4_193		CS202210140_479	Hippocampal CA4	Cluster							193
+CS202210140_195	CA4_194		CS202210140_479	Hippocampal CA4	Cluster							194
+CS202210140_196	CA4_195		CS202210140_479	Hippocampal CA4	Cluster							195
+CS202210140_197	CA4_196		CS202210140_479	Hippocampal CA4	Cluster							196
+CS202210140_198	CA4_197		CS202210140_479	Hippocampal CA4	Cluster							197
+CS202210140_199	CA4_198		CS202210140_479	Hippocampal CA4	Cluster							198
+CS202210140_200	DG_199		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data		SLC17A7|PROX1|NR3C2|TUBGCP2|ZBTB20|DPF3|CEBPD		199
+CS202210140_201	DG_200		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data		SLC17A7|PROX1|NR3C2|TUBGCP2|ZBTB20|DPF3|CEBPD		200
+CS202210140_202	DG_201		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data		SLC17A7|PROX1|NR3C2|TUBGCP2|ZBTB20|DPF3|CEBPD		201
+CS202210140_203	DG_202		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data		SLC17A7|PROX1|NR3C2|TUBGCP2|ZBTB20|DPF3|CEBPD		202
+CS202210140_204	DG_203		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data		SLC17A7|PROX1|NR3C2|TUBGCP2|ZBTB20|DPF3|CEBPD		203
+CS202210140_205	DG_204		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data		SLC17A7|PROX1|NR3C2|TUBGCP2|ZBTB20|DPF3|CEBPD		204
+CS202210140_206	DG_205		CS202210140_480	Hippocampal dentate gyrus	Cluster	CL:2000089	dentate gyrus granule cell	mousebrain.org - added ZBTB20, DPF3, CEBPD based on human data		SLC17A7|PROX1|NR3C2|TUBGCP2|ZBTB20|DPF3|CEBPD		205
+CS202210140_207	MSN_206		CS202210140_481	Medium spiny neuron	Cluster							206
+CS202210140_208	MSN_207		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|OTOF|DRD2|RGS9|GPR88		207
+CS202210140_209	MSN_208		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|OTOF|DRD2|RGS9|GPR88		208
+CS202210140_210	MSN_209		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		209
+CS202210140_211	MSN_210		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		210
+CS202210140_212	MSN_211		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		211
+CS202210140_213	MSN_212		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|OTOF|DRD2|RGS9|GPR88		212
+CS202210140_214	MSN_213		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|OTOF|DRD2|RGS9|GPR88		213
+CS202210140_215	MSN_214		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		214
+CS202210140_216	MSN_215		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		215
+CS202210140_217	MSN_216		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|OTOF|DRD2|RGS9|GPR88		216
+CS202210140_218	MSN_217		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|OTOF|DRD2|RGS9|GPR88		217
+CS202210140_219	MSN_218		CS202210140_481	Medium spiny neuron	Cluster							218
+CS202210140_220	MSN_219		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		219
+CS202210140_221	MSN_220		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		220
+CS202210140_222	MSN_221		CS202210140_481	Medium spiny neuron	Cluster	CL:4023029	indirect pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons. FOXP1, DRD1 are canonical markers. OTOF is a good marker in the human data, previously described as an eccentric MSN marker. RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|OTOF|DRD2|RGS9|GPR88		221
+CS202210140_223	EMSN_222		CS202210140_482	Eccentric medium spiny neuron	Cluster							222
+CS202210140_224	EMSN_223		CS202210140_482	Eccentric medium spiny neuron	Cluster							223
+CS202210140_225	EMSN_224		CS202210140_482	Eccentric medium spiny neuron	Cluster							224
+CS202210140_226	EMSN_225		CS202210140_482	Eccentric medium spiny neuron	Cluster							225
+CS202210140_227	EMSN_226		CS202210140_482	Eccentric medium spiny neuron	Cluster							226
+CS202210140_228	EMSN_227		CS202210140_482	Eccentric medium spiny neuron	Cluster							227
+CS202210140_229	EMSN_228		CS202210140_482	Eccentric medium spiny neuron	Cluster							228
+CS202210140_230	EMSN_229		CS202210140_482	Eccentric medium spiny neuron	Cluster							229
+CS202210140_231	EMSN_230		CS202210140_482	Eccentric medium spiny neuron	Cluster							230
+CS202210140_232	EMSN_231		CS202210140_482	Eccentric medium spiny neuron	Cluster							231
+CS202210140_233	EMSN_232		CS202210140_482	Eccentric medium spiny neuron	Cluster							232
+CS202210140_234	EMSN_233		CS202210140_482	Eccentric medium spiny neuron	Cluster							233
+CS202210140_235	EMSN_234		CS202210140_482	Eccentric medium spiny neuron	Cluster							234
+CS202210140_236	Splat_235		CS202210140_483	Splatter	Cluster	CL:4023025	long-range projecting sst GABAergic cortical interneuron (Mmus)	CORT is more specifically enriched in the neuronal cluster with the high NOS1 and NPY expression. Without CORT, also labels some AVP+ neurons with low NOS1 and NPY expression.		DLX1|SST|CHODL|TACR1|NPY|NOS1|CORT		235
+CS202210140_237	MGE_236		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		236
+CS202210140_238	Splat_237		CS202210140_483	Splatter	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		237
+CS202210140_239	Splat_238		CS202210140_483	Splatter	Cluster							238
+CS202210140_240	MGE_239		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		239
+CS202210140_241	MGE_240		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		240
+CS202210140_242	MGE_241		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		241
+CS202210140_243	MGE_242		CS202210140_484	MGE interneuron	Cluster							242
+CS202210140_244	MGE_243		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		243
+CS202210140_245	MGE_244		CS202210140_484	MGE interneuron	Cluster							244
+CS202210140_246	MGE_245		CS202210140_484	MGE interneuron	Cluster							245
+CS202210140_247	MGE_246		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		246
+CS202210140_248	MGE_247		CS202210140_484	MGE interneuron	Cluster							247
+CS202210140_249	MGE_248		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		248
+CS202210140_250	MGE_249		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		249
+CS202210140_251	MGE_250		CS202210140_484	MGE interneuron	Cluster							250
+CS202210140_252	MGE_251		CS202210140_484	MGE interneuron	Cluster							251
+CS202210140_253	MGE_252		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		252
+CS202210140_254	MGE_253		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		253
+CS202210140_255	MGE_254		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		254
+CS202210140_256	MGE_255		CS202210140_484	MGE interneuron	Cluster							255
+CS202210140_257	MGE_256		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|PVALB		256
+CS202210140_258	MGE_257		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|PVALB		257
+CS202210140_259	MGE_258		CS202210140_484	MGE interneuron	Cluster	CL:4023017	sst GABAergic cortical interneuron	Exclude ADARB2 because SST is expressed in some LAMP5-LHX6 interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|SST		258
+CS202210140_260	MGE_259		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|PVALB		259
+CS202210140_261	MGE_260		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|PVALB		260
+CS202210140_262	MGE_261		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|PVALB		261
+CS202210140_263	MGE_262		CS202210140_484	MGE interneuron	Cluster	CL:4023018	pvalb GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LHX6|GAD2|PVALB		262
+CS202210140_264	MGE_263		CS202210140_484	MGE interneuron	Cluster							263
+CS202210140_265	LLC_264		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster	CL:4023083	chandelier cell	Based on Annotaton transfer from MTG + markers: UNC5B, RORA, TRPS1, and NFIB from Bakken et. al 2021 motor cortex paper Note that these genes are also expressed in LAMP5-LHX6 cells. Added FOXG1 to limit this annotation to the telencephalon, and GAD1 to limit to GABAergic cells. ChC cells in our data did not express GAD2. Add CA8 based on the human data. Removed PVALB, some chandelier cells in our human data are PVALB negative		FOXG1|GAD1|UNC5B|RORA|TRPS1|NFIB|CA8|PLEKHH2		264
+CS202210140_266	LLC_265		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster	CL:4023083	chandelier cell	Based on Annotaton transfer from MTG + markers: UNC5B, RORA, TRPS1, and NFIB from Bakken et. al 2021 motor cortex paper Note that these genes are also expressed in LAMP5-LHX6 cells. Added FOXG1 to limit this annotation to the telencephalon, and GAD1 to limit to GABAergic cells. ChC cells in our data did not express GAD2. Add CA8 based on the human data. Removed PVALB, some chandelier cells in our human data are PVALB negative		FOXG1|GAD1|UNC5B|RORA|TRPS1|NFIB|CA8|PLEKHH2		265
+CS202210140_267	LLC_266		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster	CL:4023083	chandelier cell	UNC5B, RORA, TRPS1, and NFIB from Bakken et. al 2021 motor cortex paper Note that these genes are also expressed in LAMP5-LHX6 cells. Added FOXG1 to limit this annotation to the telencephalon, and GAD1 to limit to GABAergic cells. ChC cells in our data did not express GAD2. Add CA8 based on the human data. Removed PVALB, some chandelier cells in our human data are PVALB negative		FOXG1|GAD1|UNC5B|RORA|TRPS1|NFIB|CA8|PLEKHH2		266
+CS202210140_268	LLC_267		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							267
+CS202210140_269	LLC_268		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							268
+CS202210140_270	LLC_269		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							269
+CS202210140_271	LLC_270		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							270
+CS202210140_272	LLC_271		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							271
+CS202210140_273	LLC_272		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							272
+CS202210140_274	LLC_273		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							273
+CS202210140_275	LLC_274		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							274
+CS202210140_276	LLC_275		CS202210140_485	LAMP5-LHX6 and Chandelier	Cluster							275
+CS202210140_277	CGE_276		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		276
+CS202210140_278	CGE_277		CS202210140_486	CGE interneuron	Cluster							277
+CS202210140_279	CGE_278		CS202210140_486	CGE interneuron	Cluster							278
+CS202210140_280	CGE_279		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		279
+CS202210140_281	CGE_280		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		280
+CS202210140_282	CGE_281		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		281
+CS202210140_283	CGE_282		CS202210140_486	CGE interneuron	Cluster							282
+CS202210140_284	CGE_283		CS202210140_486	CGE interneuron	Cluster							283
+CS202210140_285	CGE_284		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		284
+CS202210140_286	CGE_285		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		285
+CS202210140_287	CGE_286		CS202210140_486	CGE interneuron	Cluster	CL:4023011	lamp5 GABAergic cortical interneuron	Supported by marker expression and annotation transfer from MTG. More numerous in primates and molecularly similar to hippocampal interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LAMP5|LHX6|GAD2		286
+CS202210140_288	CGE_287		CS202210140_486	CGE interneuron	Cluster	CL:4023011	lamp5 GABAergic cortical interneuron	Supported by marker expression and annotation transfer from MTG. More numerous in primates and molecularly similar to hippocampal interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LAMP5|LHX6|GAD2		287
+CS202210140_289	CGE_288		CS202210140_486	CGE interneuron	Cluster	CL:4023011	lamp5 GABAergic cortical interneuron	Supported by marker expression and annotation transfer from MTG. More numerous in primates and molecularly similar to hippocampal interneurons	https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|LAMP5|LHX6|GAD2		288
+CS202210140_290	CGE_289		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		289
+CS202210140_291	CGE_290		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		290
+CS202210140_292	CGE_291		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		291
+CS202210140_293	CGE_292		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		292
+CS202210140_294	CGE_293		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		293
+CS202210140_295	CGE_294		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		294
+CS202210140_296	CGE_295		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		295
+CS202210140_297	CGE_296		CS202210140_486	CGE interneuron	Cluster	CL:4023016	vip GABAergic cortical interneuron		https://doi.org/10.1038/s41586-020-2781-z	FOXG1|NR2F1|DLX1|ADARB2|CXCL14|GAD2|VIP		296
+CS202210140_298	URL_297		CS202210140_487	Upper rhombic lip	Cluster							297
+CS202210140_299	CBI_298		CS202210140_488	Cerebellar inhibitory	Cluster							298
+CS202210140_300	CBI_299		CS202210140_488	Cerebellar inhibitory	Cluster							299
+CS202210140_301	CBI_300		CS202210140_488	Cerebellar inhibitory	Cluster							300
+CS202210140_302	CBI_301		CS202210140_488	Cerebellar inhibitory	Cluster							301
+CS202210140_303	CBI_302		CS202210140_488	Cerebellar inhibitory	Cluster							302
+CS202210140_304	CBI_303		CS202210140_488	Cerebellar inhibitory	Cluster							303
+CS202210140_305	CBI_304		CS202210140_488	Cerebellar inhibitory	Cluster							304
+CS202210140_306	CBI_305		CS202210140_488	Cerebellar inhibitory	Cluster							305
+CS202210140_307	CBI_306		CS202210140_488	Cerebellar inhibitory	Cluster							306
+CS202210140_308	CBI_307		CS202210140_488	Cerebellar inhibitory	Cluster							307
+CS202210140_309	URL_308		CS202210140_487	Upper rhombic lip	Cluster	CL:4023161	unipolar brush cell			LMX1A|EOMES		308
+CS202210140_310	URL_309		CS202210140_487	Upper rhombic lip	Cluster							309
+CS202210140_311	URL_310		CS202210140_487	Upper rhombic lip	Cluster	CL:0001031	cerebellar granule cell		mousebrain.org	CBLN1|CBLN3|GABRA6		310
+CS202210140_312	URL_311		CS202210140_487	Upper rhombic lip	Cluster	CL:0001031	cerebellar granule cell		mousebrain.org	CBLN1|CBLN3|GABRA6		311
+CS202210140_313	URL_312		CS202210140_487	Upper rhombic lip	Cluster	CL:0001031	cerebellar granule cell		mousebrain.org	CBLN1|CBLN3|GABRA6		312
+CS202210140_314	Splat_313		CS202210140_483	Splatter	Cluster							313
+CS202210140_315	Misc_314		CS202210140_463	Miscellaneous	Cluster	CL:0000121	Purkinje cell	Kozareva, V., Martin, C., Osorno, T. et al. A transcriptomic atlas of mouse cerebellar cortex comprehensively defines cell types. Nature 598, 214–219 (2021). 	https://doi.org/10.1038/s41586-021-03220-z	PCP2|SKOR2|PVALB|GAD2		314
+CS202210140_316	LRL_315		CS202210140_489	Lower rhombic lip	Cluster							315
+CS202210140_317	LRL_316		CS202210140_489	Lower rhombic lip	Cluster							316
+CS202210140_318	LRL_317		CS202210140_489	Lower rhombic lip	Cluster							317
+CS202210140_319	LRL_318		CS202210140_489	Lower rhombic lip	Cluster							318
+CS202210140_320	LRL_319		CS202210140_489	Lower rhombic lip	Cluster							319
+CS202210140_321	LRL_320		CS202210140_489	Lower rhombic lip	Cluster							320
+CS202210140_322	LRL_321		CS202210140_489	Lower rhombic lip	Cluster							321
+CS202210140_323	LRL_322		CS202210140_489	Lower rhombic lip	Cluster							322
+CS202210140_324	Mmb_323		CS202210140_490	Mammillary body	Cluster							323
+CS202210140_325	Mmb_324		CS202210140_490	Mammillary body	Cluster							324
+CS202210140_326	Mmb_325		CS202210140_490	Mammillary body	Cluster							325
+CS202210140_327	Mmb_326		CS202210140_490	Mammillary body	Cluster							326
+CS202210140_328	Mmb_327		CS202210140_490	Mammillary body	Cluster							327
+CS202210140_329	Mmb_328		CS202210140_490	Mammillary body	Cluster							328
+CS202210140_330	Mmb_329		CS202210140_490	Mammillary body	Cluster							329
+CS202210140_331	Mmb_330		CS202210140_490	Mammillary body	Cluster							330
+CS202210140_332	Mmb_331		CS202210140_490	Mammillary body	Cluster							331
+CS202210140_333	Mmb_332		CS202210140_490	Mammillary body	Cluster							332
+CS202210140_334	Mmb_333		CS202210140_490	Mammillary body	Cluster							333
+CS202210140_335	Splat_334		CS202210140_483	Splatter	Cluster							334
+CS202210140_336	Splat_335		CS202210140_483	Splatter	Cluster							335
+CS202210140_337	Splat_336		CS202210140_483	Splatter	Cluster							336
+CS202210140_338	Splat_337		CS202210140_483	Splatter	Cluster							337
+CS202210140_339	Splat_338		CS202210140_483	Splatter	Cluster							338
+CS202210140_340	Splat_339		CS202210140_483	Splatter	Cluster							339
+CS202210140_341	Splat_340		CS202210140_483	Splatter	Cluster							340
+CS202210140_342	Splat_341		CS202210140_483	Splatter	Cluster							341
+CS202210140_343	Splat_342		CS202210140_483	Splatter	Cluster							342
+CS202210140_344	Splat_343		CS202210140_483	Splatter	Cluster							343
+CS202210140_345	Splat_344		CS202210140_483	Splatter	Cluster							344
+CS202210140_346	Splat_345		CS202210140_483	Splatter	Cluster							345
+CS202210140_347	Splat_346		CS202210140_483	Splatter	Cluster							346
+CS202210140_348	Splat_347		CS202210140_483	Splatter	Cluster							347
+CS202210140_349	Splat_348		CS202210140_483	Splatter	Cluster							348
+CS202210140_350	Splat_349		CS202210140_483	Splatter	Cluster							349
+CS202210140_351	Splat_350		CS202210140_483	Splatter	Cluster							350
+CS202210140_352	Splat_351		CS202210140_483	Splatter	Cluster							351
+CS202210140_353	Splat_352		CS202210140_483	Splatter	Cluster							352
+CS202210140_354	Splat_353		CS202210140_483	Splatter	Cluster							353
+CS202210140_355	Splat_354		CS202210140_483	Splatter	Cluster							354
+CS202210140_356	Splat_355		CS202210140_483	Splatter	Cluster							355
+CS202210140_357	Splat_356		CS202210140_483	Splatter	Cluster							356
+CS202210140_358	Splat_357		CS202210140_483	Splatter	Cluster							357
+CS202210140_359	Splat_358		CS202210140_483	Splatter	Cluster							358
+CS202210140_360	Splat_359		CS202210140_483	Splatter	Cluster							359
+CS202210140_361	Splat_360		CS202210140_483	Splatter	Cluster							360
+CS202210140_362	Splat_361		CS202210140_483	Splatter	Cluster							361
+CS202210140_363	Splat_362		CS202210140_483	Splatter	Cluster							362
+CS202210140_364	Splat_363		CS202210140_483	Splatter	Cluster							363
+CS202210140_365	Splat_364		CS202210140_483	Splatter	Cluster							364
+CS202210140_366	Splat_365		CS202210140_483	Splatter	Cluster							365
+CS202210140_367	Splat_366		CS202210140_483	Splatter	Cluster							366
+CS202210140_368	Splat_367		CS202210140_483	Splatter	Cluster							367
+CS202210140_369	Splat_368		CS202210140_483	Splatter	Cluster							368
+CS202210140_370	Splat_369		CS202210140_483	Splatter	Cluster							369
+CS202210140_371	Splat_370		CS202210140_483	Splatter	Cluster							370
+CS202210140_372	Splat_371		CS202210140_483	Splatter	Cluster							371
+CS202210140_373	Thex_372		CS202210140_491	Thalamic excitatory	Cluster							372
+CS202210140_374	Splat_373		CS202210140_483	Splatter	Cluster							373
+CS202210140_375	Splat_374		CS202210140_483	Splatter	Cluster							374
+CS202210140_376	Splat_375		CS202210140_483	Splatter	Cluster							375
+CS202210140_377	Splat_376		CS202210140_483	Splatter	Cluster							376
+CS202210140_378	Splat_377		CS202210140_483	Splatter	Cluster							377
+CS202210140_379	Splat_378		CS202210140_483	Splatter	Cluster							378
+CS202210140_380	Splat_379		CS202210140_483	Splatter	Cluster							379
+CS202210140_381	Splat_380		CS202210140_483	Splatter	Cluster							380
+CS202210140_382	Splat_381		CS202210140_483	Splatter	Cluster							381
+CS202210140_383	Splat_382		CS202210140_483	Splatter	Cluster							382
+CS202210140_384	Splat_383		CS202210140_483	Splatter	Cluster							383
+CS202210140_385	Splat_384		CS202210140_483	Splatter	Cluster							384
+CS202210140_386	Splat_385		CS202210140_483	Splatter	Cluster							385
+CS202210140_387	Splat_386		CS202210140_483	Splatter	Cluster							386
+CS202210140_388	Splat_387		CS202210140_483	Splatter	Cluster							387
+CS202210140_389	Splat_388		CS202210140_483	Splatter	Cluster							388
+CS202210140_390	Splat_389		CS202210140_483	Splatter	Cluster							389
+CS202210140_391	Splat_390		CS202210140_483	Splatter	Cluster							390
+CS202210140_392	Splat_391		CS202210140_483	Splatter	Cluster							391
+CS202210140_393	Splat_392		CS202210140_483	Splatter	Cluster							392
+CS202210140_394	Splat_393		CS202210140_483	Splatter	Cluster							393
+CS202210140_395	Splat_394		CS202210140_483	Splatter	Cluster							394
+CS202210140_396	Splat_395		CS202210140_483	Splatter	Cluster							395
+CS202210140_397	Splat_396		CS202210140_483	Splatter	Cluster							396
+CS202210140_398	Splat_397		CS202210140_483	Splatter	Cluster							397
+CS202210140_399	Splat_398		CS202210140_483	Splatter	Cluster							398
+CS202210140_400	Splat_399		CS202210140_483	Splatter	Cluster							399
+CS202210140_401	Splat_400		CS202210140_483	Splatter	Cluster							400
+CS202210140_402	Misc_401		CS202210140_463	Miscellaneous	Cluster							401
+CS202210140_403	Splat_402		CS202210140_483	Splatter	Cluster							402
+CS202210140_404	Splat_403		CS202210140_483	Splatter	Cluster							403
+CS202210140_405	Misc_404		CS202210140_463	Miscellaneous	Cluster							404
+CS202210140_406	Amex_405		CS202210140_478	Amygdala excitatory	Cluster							405
+CS202210140_407	Amex_406		CS202210140_478	Amygdala excitatory	Cluster							406
+CS202210140_408	Amex_407		CS202210140_478	Amygdala excitatory	Cluster							407
+CS202210140_409	Amex_408		CS202210140_478	Amygdala excitatory	Cluster							408
+CS202210140_410	Splat_409		CS202210140_483	Splatter	Cluster							409
+CS202210140_411	Splat_410		CS202210140_483	Splatter	Cluster							410
+CS202210140_412	Splat_411		CS202210140_483	Splatter	Cluster							411
+CS202210140_413	Splat_412		CS202210140_483	Splatter	Cluster							412
+CS202210140_414	Splat_413		CS202210140_483	Splatter	Cluster							413
+CS202210140_415	Splat_414		CS202210140_483	Splatter	Cluster							414
+CS202210140_416	Splat_415		CS202210140_483	Splatter	Cluster							415
+CS202210140_417	Splat_416		CS202210140_483	Splatter	Cluster							416
+CS202210140_418	Splat_417		CS202210140_483	Splatter	Cluster							417
+CS202210140_419	Splat_418		CS202210140_483	Splatter	Cluster							418
+CS202210140_420	Amex_419		CS202210140_478	Amygdala excitatory	Cluster							419
+CS202210140_421	Splat_420		CS202210140_483	Splatter	Cluster							420
+CS202210140_422	Splat_421		CS202210140_483	Splatter	Cluster							421
+CS202210140_423	Splat_422		CS202210140_483	Splatter	Cluster							422
+CS202210140_424	Splat_423		CS202210140_483	Splatter	Cluster							423
+CS202210140_425	Splat_424		CS202210140_483	Splatter	Cluster							424
+CS202210140_426	Splat_425		CS202210140_483	Splatter	Cluster							425
+CS202210140_427	EMSN_426		CS202210140_482	Eccentric medium spiny neuron	Cluster							426
+CS202210140_428	MSN_427		CS202210140_481	Medium spiny neuron	Cluster	CL:4023026	direct pathway medium spiny neuron	FOXG1 and GAD2 to restrict the annotation to inhibitory telencephalic neurons FOXP1, DRD1 are known markers OTOF is a good marker in the human data, previously described as an eccentric MSN marker RGS9 and GPR88 from mouse auto-annotation		FOXG1|SLC32A1|FOXP1|FOXP2|OTOF|DRD1|RGS9|GPR88		427
+CS202210140_429	Splat_428		CS202210140_483	Splatter	Cluster							428
+CS202210140_430	Splat_429		CS202210140_483	Splatter	Cluster							429
+CS202210140_431	MSN_430		CS202210140_481	Medium spiny neuron	Cluster							430
+CS202210140_432	Splat_431		CS202210140_483	Splatter	Cluster							431
+CS202210140_433	Splat_432		CS202210140_483	Splatter	Cluster							432
+CS202210140_434	Midi_433		CS202210140_492	Midbrain-derived inhibitory	Cluster							433
+CS202210140_435	Midi_434		CS202210140_492	Midbrain-derived inhibitory	Cluster							434
+CS202210140_436	Midi_435		CS202210140_492	Midbrain-derived inhibitory	Cluster							435
+CS202210140_437	Midi_436		CS202210140_492	Midbrain-derived inhibitory	Cluster							436
+CS202210140_438	Midi_437		CS202210140_492	Midbrain-derived inhibitory	Cluster							437
+CS202210140_439	Midi_438		CS202210140_492	Midbrain-derived inhibitory	Cluster							438
+CS202210140_440	Midi_439		CS202210140_492	Midbrain-derived inhibitory	Cluster							439
+CS202210140_441	Midi_440		CS202210140_492	Midbrain-derived inhibitory	Cluster							440
+CS202210140_442	Midi_441		CS202210140_492	Midbrain-derived inhibitory	Cluster							441
+CS202210140_443	Midi_442		CS202210140_492	Midbrain-derived inhibitory	Cluster							442
+CS202210140_444	Midi_443		CS202210140_492	Midbrain-derived inhibitory	Cluster							443
+CS202210140_445	Midi_444		CS202210140_492	Midbrain-derived inhibitory	Cluster							444
+CS202210140_446	Thex_445		CS202210140_491	Thalamic excitatory	Cluster							445
+CS202210140_447	Thex_446		CS202210140_491	Thalamic excitatory	Cluster							446
+CS202210140_448	Thex_447		CS202210140_491	Thalamic excitatory	Cluster							447
+CS202210140_449	Thex_448		CS202210140_491	Thalamic excitatory	Cluster							448
+CS202210140_450	Thex_449		CS202210140_491	Thalamic excitatory	Cluster							449
+CS202210140_451	Thex_450		CS202210140_491	Thalamic excitatory	Cluster							450
+CS202210140_452	Thex_451		CS202210140_491	Thalamic excitatory	Cluster							451
+CS202210140_453	Thex_452		CS202210140_491	Thalamic excitatory	Cluster							452
+CS202210140_454	Thex_453		CS202210140_491	Thalamic excitatory	Cluster							453
+CS202210140_455	Thex_454		CS202210140_491	Thalamic excitatory	Cluster							454
+CS202210140_456	Thex_455		CS202210140_491	Thalamic excitatory	Cluster							455
+CS202210140_457	Thex_456		CS202210140_491	Thalamic excitatory	Cluster							456
+CS202210140_458	Thex_457		CS202210140_491	Thalamic excitatory	Cluster							457
+CS202210140_459	Thex_458		CS202210140_491	Thalamic excitatory	Cluster							458
+CS202210140_460	Thex_459		CS202210140_491	Thalamic excitatory	Cluster							459
+CS202210140_461	Thex_460		CS202210140_491	Thalamic excitatory	Cluster							460
+CS202210140_463	Miscellaneous				supercluster_term	CL:0000000	cell					
+CS202210140_473	Deep-layer near-projecting				supercluster_term	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_474	Deep-layer corticothalamic and 6b				supercluster_term	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_475	Hippocampal CA1-3				supercluster_term	CL:4023060	hippocampal CA1-3 neuron	Based on dissection region 				
+CS202210140_476	Upper-layer intratelencephalic				supercluster_term	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_477	Deep-layer intratelencephalic				supercluster_term	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_478	Amygdala excitatory				supercluster_term	CL:4023039	amygdala excitatory neuron	Based on dissection region 				
+CS202210140_479	Hippocampal CA4				supercluster_term	CL:4023061	hippocampal CA4 neuron	Based on dissection region 				
+CS202210140_480	Hippocampal dentate gyrus				supercluster_term	CL:4023062	dentate gyrus neuron	Based on dissection region 				
+CS202210140_481	Medium spiny neuron				supercluster_term	CL:1001474	medium spiny neuron	Based on dissection region and marker expression.				
+CS202210140_482	Eccentric medium spiny neuron				supercluster_term	CL:4030057	eccentric medium spiny neuron	Based on integration and co-analysis with dataset from Saunders et al., 2018. Markers pulled by comparing our data to Saunders et. al 1018.  Data on http://dropviz.org/?_state_id_=8d0e82549d6039d9	https://doi.org/10.1016/j.cell.2018.07.028			
+CS202210140_483	Splatter				supercluster_term	CL:0000540	neuron	Label based on embedding				
+CS202210140_484	MGE interneuron				supercluster_term	CL:4023069	medial ganglionic eminence derived GABAergic coritcal interneuron'	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_485	LAMP5-LHX6 and Chandelier				supercluster_term	CL:0010011	cerebral cortex GABAergic interneuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_486	CGE interneuron				supercluster_term	CL:4023070	caudal ganglionic eminence derived GABAergic cortical interneuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_487	Upper rhombic lip				supercluster_term	CL:0000540	neuron	Based in part on dissection region and knowledge of development.				
+CS202210140_488	Cerebellar inhibitory				supercluster_term	CL:4023057	cerebellar inhibitory GABAergic interneuron	Based on annotation transfer from Middle Temporal Gyrus (Jorstad et al., 2023)	DOI:10.1126/science.adf6812			
+CS202210140_489	Lower rhombic lip				supercluster_term	CL:0000540	neuron	Based in part on dissection region and knowledge of development.				
+CS202210140_490	Mammillary body				supercluster_term	CL:4023074	mammillary body neuron	Based on dissection region 				
+CS202210140_491	Thalamic excitatory				supercluster_term	CL:4023068	thalamic excitatory neuron	Based on dissection region 				
+CS202210140_492	Midbrain-derived inhibitory				supercluster_term	CL:4023079	midbrain-derived inhibitory neuron	Based in part on dissection region and knowledge of development.				
